@@ -5,9 +5,9 @@ p {
 }
 
 body {
-  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  background-image: url("https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg");
   font-family: sans-serif;
-  padding: 20px
+  padding: 20px;
 }
 
 h1 {
@@ -64,7 +64,7 @@ h2 {
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 18px
+  font-size: 18px;
 }
 
 hr {
@@ -73,7 +73,7 @@ hr {
   border-color: brown;
 }
 
-/*FOOTER*/
+/* FOOTER */
 footer {
   font-size: 14px;
 }
@@ -84,7 +84,6 @@ footer {
 
 a {
   color: black;
-
 }
 
 a:visited {
